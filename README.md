@@ -1,15 +1,7 @@
 # WSU-CSE-Resources
 Recommendations and websites to look at to give yourself a summer project
 
-## Course Samples
-Sample labs of freshman / sophmore level courses from Spring 2020
-### CEG 2170 - C for Engineers
-* https://github.com/pattonsgirl/Spring2020-CEG2170
-
-### CEG 2350 - OS Concepts and Usage
-* https://github.com/pattonsgirl/Spring2020-CEG2350 
-
-## Summer Projects
+## Summer / Personal Projects
 ### Learn a Language!
 The focus of learning any one computer language is to nail down the basics.  Maybe code will look  
 a little different, but the important things like making a variable, using loops, if statements,  
@@ -24,6 +16,14 @@ and conditional or relational operators are all fundamentals that every language
 * C / C++
     * Super useful for hardware / optimization focus.  Utilized in higher level courses
 
+### Course Samples
+Sample labs of freshman / sophmore level courses from Spring 2020
+#### CEG 2170 - C for Engineers
+* https://github.com/pattonsgirl/Spring2020-CEG2170
+
+#### CEG 2350 - OS Concepts and Usage
+* https://github.com/pattonsgirl/Spring2020-CEG2350 
+
 ### Blinky Lights!
 These websites have amazing blogs full of project ideas to tackle.  
 * [Raspberry Pi](https://www.raspberrypi.org/)
@@ -36,8 +36,6 @@ These websites have amazing blogs full of project ideas to tackle.
 
 
 ## Other Resources
-### Computer Toy Store!
-Microcenter is an electronics store.  It's the engineers version of Toys-R-Us.
 ### Computer Recommendations
 When in-person, there are lots of computer labs on campus.  A course that requires coding is usually  
 taught in a lab with computers in it for the students.  That said, our FAQs frequently circle back to,  
