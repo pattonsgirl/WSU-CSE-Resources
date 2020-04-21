@@ -2,7 +2,7 @@
 Recommendations and websites to look at to give yourself a summer project
 
 ## Summer / Personal Projects
-### Learn a Language!
+### Learn New Stuff!
 The focus of learning any one computer language is to nail down the basics.  Maybe code will look  
 a little different, but the important things like making a variable, using loops, if statements,  
 and conditional or relational operators are all fundamentals that every language utilizes.
@@ -53,6 +53,10 @@ These websites have amazing blogs full of project ideas to tackle.
 ### Robots!
 * [RobotShop](https://www.robotshop.com/)
     * Python, C
+### E-Books!
+* [HumbleBundle](https://www.humblebundle.com/)
+    * Known for deals on games, but they also create e-book collections.  They change topics 
+    and themes every few week, but usually have at least a couple technology options.
 
 ## Other Resources
 ### Computer Recommendations
