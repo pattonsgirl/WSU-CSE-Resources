@@ -15,25 +15,44 @@ and conditional or relational operators are all fundamentals that every language
         to get ahead of the curve!
 * C / C++
     * Super useful for hardware / optimization focus.  Utilized in higher level courses
+* Bash / Scripting / Linux
+    * Linux is an operating system that is wonderful for development (and very useful to your learning
+        at Wright State).  
+        You can start fidgeting with Linux in a variety of ways:
+        * Raspberry Pi - a computer that only runs Linux.  The entire system runs off an SD card, so  
+        if you fidgeting goes arwy, you reinstall the SD card and you're off again!
+        * Virtual Machines - VMWare and Virtual Box are programs that let you use "guest" operating 
+        systems.  
+        So instead of installing only Linux on your computer, you can keep Windows and run Linux when  
+        you feel like dabbling.
+    * WSL Ubuntu - for Windows users
+    * Terminal - for Mac / Chromebook users.  Note that we do not recommend Macs for our program
+* Git (and GitHub)
+    * You are creating these wonderful projects, learn how to share them with the world!
+    * Git is a version control system.  It is also a fantastic resume builder.
 
 ### Course Samples
 Sample labs of freshman / sophmore level courses from Spring 2020
-#### CEG 2170 - C for Engineers
-* https://github.com/pattonsgirl/Spring2020-CEG2170
-
-#### CEG 2350 - OS Concepts and Usage
-* https://github.com/pattonsgirl/Spring2020-CEG2350 
-
+* [CEG 2170 - C for Engineers](https://github.com/pattonsgirl/Spring2020-CEG2170)
+    * Elective course for learning C.  Geared towards non-CSE students
+* [CEG 2350 - OS Concepts and Usage](https://github.com/pattonsgirl/Spring2020-CEG2350)
+    * Required course for CS / CEG majors.
+    * Provides and introduction to Linux, Git, scripting, OS concepts, virtual machines,  
+        development technologies
 ### Blinky Lights!
 These websites have amazing blogs full of project ideas to tackle.  
 * [Raspberry Pi](https://www.raspberrypi.org/)
+    * Linux, Python, C
 * [Arduino](https://www.arduino.cc/)
+    * C / C++
 * [Sparkfun](https://www.sparkfun.com/)
+    * Sensors, kits, electronic equipment
 * [Adafruit](https://www.adafruit.com/)
-
+    * Adabox subscription service - project kits with resources
+    * Sensors, kits, electronic equipment
 ### Robots!
 * [RobotShop](https://www.robotshop.com/)
-
+    * Python, C
 
 ## Other Resources
 ### Computer Recommendations
