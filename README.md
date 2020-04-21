@@ -59,7 +59,7 @@ These websites have amazing blogs full of project ideas to tackle.
 When in-person, there are lots of computer labs on campus.  A course that requires coding is usually  
 taught in a lab with computers in it for the students.  That said, our FAQs frequently circle back to,  
 "What computer do I need for this program?"  So here are some guidelines.
-* We do not recommend Macs as your primary computer.
+* We do **NOT** recommend Macs as your primary computer.
     * If you have a Mac, you may have trouble finding alternatives to software used in our program
     * You will also to to ensure your code is compatible with the system that it will be graded on
 * We strongly recommend Windows or Linux.
