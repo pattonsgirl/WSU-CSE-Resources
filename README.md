@@ -57,6 +57,9 @@ These websites have amazing blogs full of project ideas to tackle.
 * [HumbleBundle](https://www.humblebundle.com/)
     * Known for deals on games, but they also create e-book collections.  They change topics 
     and themes every few week, but usually have at least a couple technology options.
+### Cyber / Linux
+* [OverTheWire - Wargames](https://overthewire.org/wargames/)
+    * We recommend trying out the game "bandit"
 
 ## Other Resources
 ### Computer Recommendations
