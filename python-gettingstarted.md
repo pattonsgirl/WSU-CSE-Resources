@@ -7,7 +7,7 @@
     * Pick a Python 3.7 version that matches your Operating System (Windows, Mac, Linux).
     * I typically use 64-bit installers.  If you have a very old computer (5+ years) you might want the 32-bit edition.
 * Run the installer.  
-    * *The instructions below are for a standard Windows install. [Other installation instructions](https://docs.anaconda.com/anaconda/install/)* 
+    * *The instructions below are for a standard Windows install. [Other installation instructions can be found here](https://docs.anaconda.com/anaconda/install/)* 
     1. Select to install for "Just Me".  
     2. Pick an installion directory.  The default is fine.
     3. Select "Register Anaconda3 as my default Python 3.7"
@@ -30,3 +30,7 @@ Anaconda Navigator is a good place to see all the programs you have installed th
     * [Python.org](https://docs.python.org/3/tutorial/index.html)
     * [TutorialsPoint - Python Tutorial](https://www.tutorialspoint.com/python/index.htm)
     * [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
+    * [Impractical Python Projects](https://nostarch.com/impracticalpythonprojects)
+* Other ways to get started:
+    * Google your project idea (or a core part you need) followed by the word "python"
+        * See what happens!
