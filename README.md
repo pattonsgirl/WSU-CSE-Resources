@@ -26,10 +26,17 @@ and conditional or relational operators are all fundamentals that every language
         So instead of installing only Linux on your computer, you can keep Windows and run Linux when  
         you feel like dabbling.
     * WSL Ubuntu - for Windows users
-    * Terminal - for Mac / Chromebook users.  Note that we do not recommend Macs for our program
+    * Terminal - for Mac / Chromebook users.
 * Git (and GitHub)
     * You are creating these wonderful projects, learn how to share them with the world!
     * Git is a version control system.  It is also a fantastic resume builder.
+
+### Programming Practice
+The great thing about programming is that you can get a lot of practice without buying anything. Take a look at the following websites:
+* [Repl.it](https://repl.it/~)
+    * Allows free-form coding in literally dozens of programming languages, via a web browser interface
+* [CodinGame](https://www.codingame.com/home)
+    * Practice programming in a wide variety of popular languages by competing in various game-themed contests.
 
 ### Course Samples
 Sample labs of freshman / sophmore level courses from Spring 2020
@@ -60,16 +67,15 @@ These websites have amazing blogs full of project ideas to tackle.
 ### Cyber / Linux
 * [OverTheWire - Wargames](https://overthewire.org/wargames/)
     * We recommend trying out the game "bandit"
+* [PicoCTF](https://picoctf.com)
+    * Capture-the-Flag games targeted towards high school cyber students, but still a fun introduction to the basics.
 
 ## Other Resources
 ### Computer Recommendations
 When in-person, there are lots of computer labs on campus.  A course that requires coding is usually  
 taught in a lab with computers in it for the students.  That said, our FAQs frequently circle back to,  
 "What computer do I need for this program?"  So here are some guidelines.
-* We do **NOT** recommend Macs as your primary computer.
-    * If you have a Mac, you may have trouble finding alternatives to software used in our program
-    * You will also to to ensure your code is compatible with the system that it will be graded on
-* We strongly recommend Windows or Linux.
+* Campus IT resources are focused on Windows and Linux systems. Mac users may need to run some course software in a virtual machine.
 * Processor: Try to have at minimum an Intel i5 processor (or it's AMD equivalent)
 * Storage: Try to get at minimum a 256 GB SSD (Solid State Drive)
 * Graphics: No requirement here.  We utilize servers with GPUs and cloud services like AWS for courses  
