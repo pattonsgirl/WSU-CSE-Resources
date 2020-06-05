@@ -20,7 +20,9 @@ This version is only Python.  You will need to individually install additional p
 * [Download Python](https://www.python.org/downloads/)
 
 ## Getting Started with Anaconda3
-In your start menu, you should now have an option for Anaconda3.
+In your start menu, you should now have an option for Anaconda3.  
 Anaconda Navigator is a good place to see all the programs you have installed that work with Anaconda3.  The Navigator also has a compiled list of official resources and help forums that you can visit for guidance.
 ### Start Programming
-Most commonly you are going to use an IDE (Integrated Development Environment) when writing code.  Anaconda3 comes with Spyder.  When you open Spyder, it will auto create a temp.py file.
+* Use iPython (Interactive Python)
+* Use a text editor, then run your program
+    * Most commonly you will use an IDE such as Visual Studio Code or PyCharm.  
