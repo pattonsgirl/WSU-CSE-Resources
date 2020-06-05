@@ -16,7 +16,7 @@
     5. Once the installer is finished, you can select "Finish"
 
 ### Python
-This version is only Python.  You will need to individually install additional packages.  
+This version is the command line version of Python.  You will need to individually install additional packages to get the same setup as above.  
 * [Download Python](https://www.python.org/downloads/)
 
 ## Getting Started with Anaconda3
@@ -31,6 +31,9 @@ Anaconda Navigator is a good place to see all the programs you have installed th
     * [TutorialsPoint - Python Tutorial](https://www.tutorialspoint.com/python/index.htm)
     * [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
     * [Impractical Python Projects](https://nostarch.com/impracticalpythonprojects)
+* Make a Discord bot!:
+    * [How to make a discord bot in python](https://realpython.com/how-to-make-a-discord-bot-python/)
+    * [Discord.py documentation](https://discordpy.readthedocs.io/en/latest/)
 * Other ways to get started:
     * Google your project idea (or a core part you need) followed by the word "python"
         * See what happens!
