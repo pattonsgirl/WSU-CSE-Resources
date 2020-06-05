@@ -26,3 +26,7 @@ Anaconda Navigator is a good place to see all the programs you have installed th
 * Use iPython (Interactive Python)
 * Use a text editor, then run your program
     * Most commonly you will use an IDE such as Visual Studio Code or PyCharm.  
+* Begin poking around tutorials:
+    * [Python.org](https://docs.python.org/3/tutorial/index.html)
+    * [TutorialsPoint - Python Tutorial](https://www.tutorialspoint.com/python/index.htm)
+    * [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
